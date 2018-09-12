@@ -1,2 +1,3 @@
 # my_first_github
-First github repository 
+Added a new line	
+Removed one line
